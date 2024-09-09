@@ -1,0 +1,12 @@
+1. open two anaconda prompts
+
+2. In first prompt navigate to the project directory and type python -m streamlit run navigation.py
+
+It will open http://localhost:8501/ in webpage and show please use main app.
+
+
+3. Open another prompt and navigate to project directory, Then type python application.py  
+
+now the flask will start running and give you the link http://127.0.0.1:5000
+
+Open the link and you can start further process.
